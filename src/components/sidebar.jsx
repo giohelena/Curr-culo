@@ -8,11 +8,13 @@ import "../styles/components/sidebar.sass";
 const Sidebar = () => {
 return <aside id="sidebar">
     <img src={Avatar} alt="Giovanna Almeida" />
-    <p className="title">Desenvolvedor</p>
+    <p className="title">UI/UX Designer e Web Developer</p>
     <SocialNetworks />
+    <br/>
     <InformationContainer />
-    <a href="" className="btn">
-        Download currículo
+    <br/>
+    <a href="https://www.portfolio-giohelena.42web.io" target="_blank" className="btn">
+        Veja meu portfolio
     </a>
 </aside>
 };
