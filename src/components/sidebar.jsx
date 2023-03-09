@@ -13,7 +13,7 @@ return <aside id="sidebar">
     <br/>
     <InformationContainer />
     <br/>
-    <a href="https://www.portfolio-giohelena.42web.io" target="_blank" className="btn">
+    <a href="https://giohelena.website/" target="_blank" className="btn">
         Veja meu portfolio
     </a>
 </aside>
