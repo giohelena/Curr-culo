@@ -26,7 +26,6 @@ const technologies = [
 const TechnologiesContainer = () => {
     return (
     <section className='technologies-container'>
-        <j2>Tecnologias</j2>
         <div className='technologies-flex'>
             {technologies.map((tech) => (
                 <div className='technology-card' id={tech.id} key={tech.id}>

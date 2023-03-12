@@ -13,7 +13,6 @@ const MoreInformation = [
 const MoreInformationContainer = () => {
     return (
     <section className='technologies-container'>
-        <j2>Conhecimentos adicionais</j2>
         <div className='technologies-flex'>
             {MoreInformation.map((info) => (
                 <div className='technology-card' id={info.id} key={info.id}>
