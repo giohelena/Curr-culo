@@ -1,5 +1,5 @@
 
-import Avatar from '../img/103832320.jpg';
+import Avatar from '../img/foto.jpeg';
 import SocialNetworks from './social-networks'
 import InformationContainer from './information-container';
 
