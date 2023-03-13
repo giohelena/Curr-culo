@@ -13,13 +13,13 @@ const UiUxContainer = () => {
         <div className="project-container">
             <a href="https://giohelena.website/index.php/2023/03/06/helper-o-seu-assistente-de-viagens-estudo-de-caso-ux-2/" target="_blank">
             <div>
-                <img src="../../src/img/Android Large - 1.jpg" id="img"></img><br/><br/>
+                <img src="../../src/img/Frame 8.jpg" id="img"></img><br/><br/>
                 <h3>Helper, o seu assistente de viagens</h3>
             </div>
             </a>
             <a href="https://giohelena.website/index.php/2023/03/06/mercato-economizando-na-hora-de-fazer-mercado-estudo-de-caso-ux/" target="_blank">
             <div>
-                <img src="../../src/img/Frame 8.jpg" id="img"></img><br/><br/>
+                <img src="../../src/img/Android Large - 1.jpg" id="img"></img><br/><br/>
                 <h3>Mercato, o seu mercado mais barato</h3>
             </div>
             </a>
