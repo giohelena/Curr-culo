@@ -5,6 +5,7 @@ import TechnologiesContainer from './technologies-container';
 import UiUxContainer from './uiux-container';
 import MoreInformationContainer from './moreinformation';
 import IntroMoreInfo from './intro-moreinformation';
+import Experience from './experience';
 
 const MainContent = () => {
     return(
@@ -15,6 +16,7 @@ const MainContent = () => {
             <TechnologiesContainer />
             <IntroMoreInfo />
             <MoreInformationContainer />
+            <Experience />
         </main>
     )
 };

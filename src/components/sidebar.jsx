@@ -4,6 +4,8 @@ import SocialNetworks from './social-networks'
 import InformationContainer from './information-container';
 
 import "../styles/components/sidebar.sass";
+import Information2Container from './information2-container';
+import Certificates from './certificates';
 
 const Sidebar = () => {
 return <aside id="sidebar">
@@ -12,10 +14,13 @@ return <aside id="sidebar">
     <SocialNetworks />
     <br/>
     <InformationContainer />
-    <br/>
     <a href="https://giohelena.website/" target="_blank" className="btn">
         Veja meu portfolio
     </a>
+    <br />
+    <br/>
+    <Information2Container />
+    <Certificates/>
 </aside>
 };
 

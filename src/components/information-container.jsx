@@ -26,6 +26,7 @@ const InformationContainer = () =>{
             </div>
         </div>
     </section>
+    
 };
 
 export default InformationContainer;
