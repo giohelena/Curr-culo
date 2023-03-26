@@ -5,6 +5,14 @@ const Certificates = () =>{
     return <section id="information-container">
         <p className="info-title">Certificações</p>
         <div className="info-card">
+            <TbCertificate id="certificate-icon"/>
+            <div>
+                <h3>Figma UI UX Design Essentials</h3>
+                <h3>Concluído em Mar. 2023</h3>
+                <p>Udemy</p>
+            </div>
+        </div>
+        <div className="info-card">
             <TbCertificate id="certificate-icon" />
             <div>
                 <h3>Ux Design do Zero</h3>

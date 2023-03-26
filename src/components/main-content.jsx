@@ -11,12 +11,12 @@ const MainContent = () => {
     return(
         <main id="main-content">
             <AboutContainer />
-            <UiUxContainer />
+            <Experience />
             <WebDesignContainer />
             <TechnologiesContainer />
             <IntroMoreInfo />
             <MoreInformationContainer />
-            <Experience />
+            
         </main>
     )
 };
